@@ -7,7 +7,7 @@ This project demonstrates how Django sessions work, including creating, accessin
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/django-sessions-demo.git
+git clone https://github.com/ConveningMoon/TestCookiesProject
 cd django-sessions-demo
 ```
 
